@@ -18,13 +18,13 @@ echo_pin = Pin(12, Pin.IN)
 
 # Your network credentials
 ssid = 'Nak mintak gue bagi'
-password = 'ManHohoho123!!!'
+password = '????'
 
 # Email details
 sender_email = 'irumankun88@gmail.com'
 sender_name = 'ESP32 NI BOSS' #sender name
-sender_app_password = 'yzln lmsd lzqg mflx'
-recipient_email ='edragneel678@gmail.com' #nusyrfnsyah@gmail.com
+sender_app_password = '????'
+recipient_email ='edragneel678@gmail.com'
 
 email_subject = 'Water Level Alert'
 
