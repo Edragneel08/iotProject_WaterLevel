@@ -13,7 +13,7 @@ CLIENT_ID = "umqtt_client"
 USER = "iH0JbVmdxP13CDgUm3jzwPtQ7dVT1Jbb"
 PASSWORD = "iH0JbVmdxP13CDgUm3jzwPtQ7dVT1Jbb"
 WIFI_SSID = 'Nak mintak gue bagi'
-WIFI_PASSWORD = 'ManHohoho123!!!'
+WIFI_PASSWORD = '????'
 client = MQTTClient(CLIENT_ID, SERVER, user=USER, password=PASSWORD)
 
 # LCD initialization
@@ -29,13 +29,13 @@ echo_pin = Pin(12, Pin.IN)
 
 # Your network credentials
 ssid = 'Nak mintak gue bagi'
-password = 'ManHohoho123!!!'
+password = '????'
 
 # Email details
 sender_email = 'irumankun88@gmail.com'
 sender_name = 'ESP32 NI BOSS' #sender name
-sender_app_password = 'yzln lmsd lzqg mflx'
-recipient_email ='edragneel678@gmail.com' #nusyrfnsyah@gmail.com   edragneel678@gmail.com
+sender_app_password = '????'
+recipient_email ='edragneel678@gmail.com' #  edragneel678@gmail.com
 
 email_subject = 'Water Level Alert'
 
